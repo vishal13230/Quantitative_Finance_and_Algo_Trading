@@ -1,2 +1,2 @@
 # quantitative_finance
-my finance codes
+All the codes and projects related to Quantitative Finance
